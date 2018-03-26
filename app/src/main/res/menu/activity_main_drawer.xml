@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/door_fitting"
+            android:icon="@drawable/ic_door_24dp"
+            android:title="DOOR FITTINGS" />
+        <item
+            android:id="@+id/home_accessories"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="HOME ACCESSORIES" />
+        <item
+            android:id="@+id/kitchen_system"
+            android:icon="@drawable/ic_kitchen_black_24dp"
+            android:title="KITCHEN SYSTEM" />
+        <item
+            android:id="@+id/bathroom_accessories"
+            android:icon="@drawable/ic_bathroom_24dp"
+            android:title="BATHROOM ACCESSORIES" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Contact Us"
+                android:visible="true" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About Us"
+                android:visible="true" />
+        </menu>
+    </item>
+
+</menu>

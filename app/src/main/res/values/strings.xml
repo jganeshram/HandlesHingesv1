@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HandlesHingesv1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="about_us">About Us</string>
+    <string name="handles_hinges_is_an_exclusive_showroom_for_door_fittings_cupboard_handles_main_door_handles_door_locks_hinges_tower_bolts_sliding_solutions_kitchen_accessories_bathroom_accessories_home_accessories_we_provide_you_all_kind_of_leading_international_and_domestic_brands_our_main_aim_is_to_deliver_our_customer_quality_product_and_make_their_sweet_home_as_smart_home"><![CDATA[Handles & Hinges is an exclusive showroom for Door Fittings,Cupboard Handles,Main Door Handles,Door Locks,Hinges & Tower bolts,Sliding Solutions,Kitchen Accessories,Bathroom Accessories,Home Accessories.We provide you all kind of leading international and domestic brands.Our main aim is to deliver our customer quality product and make their sweet home as smart home.]]></string>
+    <string name="our_mission">Our Mission</string>
+    <string name="our_mission_is_to_provide_the_customer_innovative_value_based_and_trust_able_solution_for_the_buildings_and_make_them_satisfied_with_the_deliverable_output_when_they_use_our_products">Our mission is to provide the customer, innovative value based and trust-able solution for the buildings and make them satisfied with the deliverable output when they use our products.</string>
+    <string name="our_vision">Our Vision</string>
+    <string name="our_vision_is_to_take_responsibility_in_delivering_perfect_innovative_solutions_to_the_customer_with_delight">Our vision is to take responsibility in delivering perfect innovative solutions to the customer with delight.</string>
+    <string name="about_us">About Us</string>
+</resources>
